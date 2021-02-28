@@ -22,8 +22,6 @@ hoi {}, my name is {}! Owned by [this person](tg://user?id={}).
 THIS BOT IS NOT FOR YOU BOT YOU CAN HELP BY [JOINING MY CHANNEL](https://t.me/joinchat/TM1-RpxIoAzz8Ogp) 
 
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
 """
 
 HELP_STRINGS = """
